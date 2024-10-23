@@ -45,7 +45,7 @@ PlayerTwoBttn.addEventListener("click",()=>{
                 PlayerTwoError.innerHTML = "Don't tell me,you forgot that rule to.Ok no more mistake,last warning enter number between 0-9.All the best sweethert"
             }
         }else{
-            PlayerTwoError.innerHTML = "You forgot ? What you told me.Please enter a number,I will not remind you again sweetheart."
+            PlayerTwoError.innerHTML = "You forgot ? What you told me.Please enter a number,I will not remind you again ."
         }
     }else{
         PlayerTwoError.innerHTML = "Enter a value dear"
